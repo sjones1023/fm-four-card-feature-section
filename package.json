@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build" : "vite build"
+    "build" : "npx vite build"
   },
   "devDependencies": {
     "sass": "^1.105.1"

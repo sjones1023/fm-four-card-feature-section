@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://sjones1023.github.io/fm-four-card-feature-section)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-challenge-solution-Yzcr0w2MeT](https://www.frontendmentor.io/solutions/four-card-feature-section-challenge-solution-Yzcr0w2MeT)
+- Live Site URL: [https://sjones1023.github.io/fm-four-card-feature-section](https://sjones1023.github.io/fm-four-card-feature-section)
 
 ## My process
 

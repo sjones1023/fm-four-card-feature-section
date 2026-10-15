@@ -60,12 +60,16 @@ img {
   display: block;
 }
 
-.wrapper {
-  max-width: 1180px;
+%wrapper--base {
   margin: 0 auto;
+}
+
+.wrapper {
+  @extend %wrapper--base;
+  max-width: 1180px;
 
   &--narrow {
-    @extend .wrapper;
+    @extend %wrapper--base;
     max-width: 500px;
   }
 }
